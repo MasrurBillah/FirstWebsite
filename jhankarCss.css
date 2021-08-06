@@ -1,0 +1,73 @@
+body{
+    background-image: url("C:/Users/Masrur Billah/Pictures/css.jpg");
+    background-size: 1350px;
+}
+*{
+    border-radius: 10px;
+    margin: 20px 15px;
+    text-align: justify;
+    padding: 3px 7px 3px 10px;
+}
+.intro{
+    border: 7px ridge rgb(2, 13, 49);
+    background-color: rgb(211, 214, 208);
+    width: 30%;
+    margin-left: 150px;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(1, 0, 34);
+    font-size: 35px;
+    background-color: rgb(176, 180, 172);
+    height: 60px;
+    width: 40%;   
+}
+h2{
+    font-family: cursive;
+    color: rgb(221, 217, 217);
+    background-color: rgb(63, 63, 62);
+    padding: 10px;
+    padding-left: 20px;
+}
+h3{
+    font-family: cursive;
+    font-weight: lighter;
+    font-size: 23px;
+}
+p{
+    font-family: cursive;
+    color: rgb(9, 1, 36);
+    font-size: 20px;
+}
+img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+ul{
+    font-family: cursive;
+    font-size: 20px;
+    color: rgb(9, 1, 36);
+}
+ol{
+    font-family: cursive;
+    font-size: 20px;
+    color: rgb(9, 1, 36);
+}
+#objectives{            
+    font-size: 24px;
+    color: rgb(26, 4, 4);
+}
+.review{
+    background-color: lavender;
+}
+h3.review{
+    width: 70%;
+}
+span{
+    color: rgb(182, 32, 32);
+}
