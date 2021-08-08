@@ -1,6 +1,7 @@
 body{
     background-image: url("https://www.calmsage.com/wp-content/uploads/2020/04/Hues-of-blue-perfect-to-find-your-calm..jpg");
-    background-size: 1350px;
+    background-size: cover;
+    margin:0px;
 }
 *{
     border-radius: 10px;
@@ -68,6 +69,6 @@ ol{
 h3.review{
     width: 70%;
 }
-span{
-    color: rgb(182, 32, 32);
+.color-change{
+    color: orange;
 }
